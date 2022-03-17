@@ -1,6 +1,6 @@
 customhost = "employ-db.cp4ex4r5p0bo.ap-south-1.rds.amazonaws.com"
 customuser = "admin"
 custompass = "Suryateja331"
-customdb = "employ1"
+customdb = "employ-db"
 custombucket = "add-ployem"
 customregion = "ap-south-1"
